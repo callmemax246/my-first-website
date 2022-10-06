@@ -1,0 +1,41 @@
+<html>
+<!--this is my website title-->
+<head>
+    <title>itsmax:)</title>
+    <style>
+        h1 {background-color: blueviolet;
+        color: white;
+    border: 3px solid grey;}
+    </style>
+</head>
+<body style="background-color:F5EFE6;">
+<h1> THIS IS MAX WEBPAGE </h1>
+<hr>
+<p> know about me here </p>
+
+<br>
+<input type="text">
+<br>
+<ul>
+    <li>my youtube link is in below</li>
+    <li>my instagram account below</li>
+</ul>
+<br>
+<img src="spidy.png.png"  width="300" height="300"> 
+<br>
+<strong> click here </strong>
+<br>
+<button>hit me up</button>
+<br>
+<ul>
+    <li>
+ <img src="">
+<a href="https://m.youtube.com/channel/UC-gz0agn6eDrgBgOXk_3-Yw/featured" target="_blank" >youtube</a>
+   </li>
+<li>
+<a href="https://www.instagram.com/the__walker__2/" target="_blank">instagram</a>
+</li>
+</ul>
+
+</body>
+</html>
