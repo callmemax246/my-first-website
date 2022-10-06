@@ -3,6 +3,7 @@
 <head>
     <title>itsmax:)</title>
     <style>
+        
         #title {background-color: blueviolet;
         color: white;
     border-width: 5px;
@@ -32,7 +33,7 @@ border: 3px solid brown;}
     <li class="upper">my instagram account below</li>
 </ul>
 <br>
-<img src="spidy.png.png"  width="300" height="300"> 
+<img src="maxi.png.png"  width="300" height="300"> 
 <br>
 <strong> click here </strong>
 <br>
@@ -41,11 +42,10 @@ border: 3px solid brown;}
 <ul>
     <li>
  <img src="">
-<a href="https://m.youtube.com/channel/UC-gz0agn6eDrgBgOXk_3-Yw/featured" target="_blank" >youtube</a>
+<a href="https://m.youtube.com/channel/UC-gz0agn6eDrgBgOXk_3-Yw/featured" target="_blank" > <img src="yt.png.webp" height="30" width 30 alt="youtube"></a>
    </li>
 <li>
-<a href="https://www.instagram.com/the__walker__2/" target="_blank">instagram</a>
-</li>
+<a href="https://www.instagram.com/the__walker__2/" target="_blank"><img src="Insta.png.png" height="30" width="30" alt="instagram"></a>
 </ul>
 
 </body>
